@@ -38,6 +38,7 @@ export default {
   mounted() {
    console.log(this.listStudent,"state");
     this.paginationStudent(1); //giong componentDidMount
+    console.log("hihi");
     
   },
   
